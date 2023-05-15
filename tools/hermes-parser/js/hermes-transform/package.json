@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@babel/code-frame": "^7.16.0",
-    "esquery": "^1.4.0",
+    "esquery": "^1.5.0",
     "flow-enums-runtime": "^0.0.6",
     "hermes-eslint": "0.11.1",
     "hermes-estree": "0.11.1",
